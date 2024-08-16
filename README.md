@@ -23,6 +23,10 @@ Data-driven professional who leverages insights to optimize performance and make
 
 <h2>Notion Templates</h2>
 
-To use these Notion templates, you'll need a free Notion account. If you don't have one, [click here to sign up with my affiliate link.](https://affiliate.notion.so/9p0v90tsaj02).
+[@nicolasazrak](https://www.notion.so/@nicolasazrak)
+
+I’m passionate about technology and have been using Notion to organize my life and work. I’ve created some helpful templates along the way and would love to share them with you. My templates are designed to make your Notion experience a little easier.
+
+To use these Notion templates, you'll need a free Notion account. If you don't have one, **[click here to sign up with my affiliate link.](https://affiliate.notion.so/9p0v90tsaj02)**.
 
 - [Architecture Decision Record](https://www.notion.so/templates/architecture-decision-records-adr)
