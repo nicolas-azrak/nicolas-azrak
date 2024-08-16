@@ -7,13 +7,13 @@
 
 <hr>
 
-<h4>Current Job</h4>
+<h2>Current Job</h2>
 
 I'm currently working on **[Trafilea Tech E-Commerce Group](https://github.com/trafilea)** as a **Principal Software Architect**.
 
 <hr>
 
-<h4>About</h4>
+<h2>About</h2>
 
 Proactive and results-oriented IT professional with over 13 years of experience building and leading high-performing software solutions. Proven ability to architect, design, and implement scalable, secure, and innovative systems across various industries, including e-commerce and fintech. Expertise in software and cloud architecture, cloud engineering, and backend development.
 
@@ -21,7 +21,7 @@ Data-driven professional who leverages insights to optimize performance and make
 
 <hr>
 
-<h4>Notion Templates</h4>
+<h2>Notion Templates</h2>
 
 To use these Notion templates, you'll need a free Notion account. If you don't have one, [click here to sign up with my affiliate link.](https://affiliate.notion.so/9p0v90tsaj02).
 
