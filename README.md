@@ -5,21 +5,15 @@
   <a href="https://twitter.com/nicolasazrak"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<hr>
-
 <h2>Current Job</h2>
 
 I'm currently working on **[Trafilea Tech E-Commerce Group](https://github.com/trafilea)** as a **Principal Software Architect**.
-
-<hr>
 
 <h2>About</h2>
 
 Proactive and results-oriented IT professional with over 13 years of experience building and leading high-performing software solutions. Proven ability to architect, design, and implement scalable, secure, and innovative systems across various industries, including e-commerce and fintech. Expertise in software and cloud architecture, cloud engineering, and backend development.
 
 Data-driven professional who leverages insights to optimize performance and make informed technical decisions. Possess a meticulous eye for detail, ensuring code quality and platform stability. Proactive approach to problem-solving allows for anticipation of challenges and swift implementation of solutions. Strong leadership skills foster a collaborative environment, empowering teams to achieve ambitious goals and deliver exceptional results.
-
-<hr>
 
 <h2>Notion Templates</h2>
 
