@@ -24,3 +24,4 @@ I’m passionate about technology and have been using Notion to organize my life
 To use these Notion templates, you'll need a free Notion account. If you don't have one, **[click here to sign up with my affiliate link.](https://affiliate.notion.so/9p0v90tsaj02)**
 
 - [Architecture Decision Record](https://www.notion.so/templates/architecture-decision-records-adr)
+- [Incident Management - Root Cause Analysis](https://www.notion.so/templates/incidents-management-rca)
